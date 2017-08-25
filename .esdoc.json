@@ -1,0 +1,9 @@
+{
+  "source": "./test/e2e/specs",
+  "destination": "./docs",
+  "plugins": [
+    {
+      "name": "esdoc-standard-plugin"
+    }
+  ]
+}
